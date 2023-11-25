@@ -1,6 +1,17 @@
 ### Hi there 👋
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=keichankotaro)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=keichankotaro&layout=compact)
+<a href="https://github.com/keichankotaro">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=keichankotaro&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/keichankotaro">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keichankotaro" />
+</a>
+<a href="https://github.com/keichankotaro/WorldWideBan">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=keichankotaro&repo=WorldWideBan" />
+</a>
+<a href="https://github.com/keichankotaro/MatasabaPlugin">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=keichankotaro&repo=MatasabaPlugin" />
+</a>
+
 <!--
 **keichankotaro/keichankotaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
