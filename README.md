@@ -1,28 +1,50 @@
 ### Hi there 👋
-<a href="https://github.com/keichankotaro">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=keichankotaro&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/keichankotaro">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keichankotaro" />
-</a>
-<a href="https://github.com/keichankotaro/WorldWideBan">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=keichankotaro&repo=WorldWideBan" />
-</a>
-<a href="https://github.com/keichankotaro/MatasabaPlugin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=keichankotaro&repo=MatasabaPlugin" />
-</a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=510&lines=Hi+there,+I'm+keichankotaro+👋;Unity+%2F+C%2B%2B+%2F+C%23+%2F+etc...+Developer;Making+games+%26+tools;Welcome+to+my+profile!" alt="Typing SVG" />
+</div>
 
-<!--
-**keichankotaro/keichankotaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
+- 🔭 **開発中:** [bunkasai-otoge](https://github.com/keichankotaro/bunkasai-otoge)（Unity製リズムゲーム）, ゲーム用のエンジンも作っています（C++ / Win32 ※非公開）
+- 🌱 **学習中 / 関心:** C++ / DirectX / Unity / .NET / Python / LLM
+- 💬 **得意分野:** Unityゲーム開発 / C# ツール開発 / DirectX を使った Windows 向けソフト・ゲーム開発
+- ⛏️ **以前は:** Minecraft サーバープラグイン開発（[WorldWideBan](https://github.com/keichankotaro/WorldWideBan) など、Java / Kotlin）もやっていました
+- 📫 **連絡先:** [Twitter](https://twitter.com/keichankotaro) / Discord (`keichankotaro`)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+#### Languages & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,unity,dotnet,java,kotlin,python,html,js,ts" />
+</p>
+
+#### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,visualstudio,neovim" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keichankotaro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keichankotaro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keichankotaro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📌 Featured Projects
+<p align="center">
+  <a href="https://github.com/keichankotaro/bunkasai-otoge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keichankotaro&repo=bunkasai-otoge&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/keichankotaro/WorldWideBan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=keichankotaro&repo=WorldWideBan&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
